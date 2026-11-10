@@ -11,15 +11,6 @@ Me interesa el desarrollo web, la programación, las bases de datos y la adminis
 - **Sistemas y soporte:** instalación de sistemas operativos, mantenimiento de equipos y configuración de periféricos
 - **Herramientas:** Microsoft Office, Google Drive y OneDrive
 
-## 📚 Cursos
-
-- Aplicaciones Web de Python — Edutin Academy, 2026
-- Python — Oriéntate MX, 2023
-- Instalación y actualización de sistemas operativos Windows — CECATI No. 128, 2022
-- Análisis de componentes de PC y sus fallas — CECATI No. 128, 2022
-- Administración de bases de datos — Fundación Carlos Slim, 2021
-- Administración de servidores — Fundación Carlos Slim, 2021
-
 ## 🚀 Proyectos
 
 - [Pokédex con Vue](https://github.com/Ricky-Ari-Esca/pokemon-pokedex-vue) — aplicación web desarrollada con Vue.js.
